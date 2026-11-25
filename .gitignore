@@ -1,0 +1,15 @@
+# 大文件与本地数据不入库
+data/raw/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# 系统
+.DS_Store
+
+# 工作区会话数据
+.workbuddy/
